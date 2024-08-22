@@ -21,6 +21,8 @@ const header = (
 );
 
 const mainStyle = {background:'border-box cyan', color:'black'}
+
+
 const main = (
   <main style={mainStyle}>
     <div className="main-wrapper">
